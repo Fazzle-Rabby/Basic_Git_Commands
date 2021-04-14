@@ -29,6 +29,10 @@ copy the key
 [Go to github account > setting > ssh and gpg key > new ssh key > title (ssh1) > key (paste)> save]
 
 
+-- Back to home directory
+$ cd
+
+
 -- Check directory
 $ pwd
 
